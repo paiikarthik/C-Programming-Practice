@@ -9,7 +9,7 @@ int main() {
   printf("Enter your first name and press enter: \n");
 
   // Get and save the text
-  scanf("%s", firstName);
+  scanf("%s", firstName);  //FOR STIRNG & is not required
 
   // Output the text
   printf("Hello %s", firstName);
